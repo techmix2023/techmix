@@ -36,3 +36,22 @@ table{
 .client-box img{
     max-width: 90%;
 }
+.filter-grayscale-50{
+    filter: grayscale(50%);
+}
+.text-gradient-emerald-blue-emerald-green {
+    background-image: linear-gradient(to right top, #0074ea, #09afea);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+@media (max-width: 767px) {
+    .m-hidden{
+        display:none !important
+    }
+    .sitemap .feature-box-icon{
+        margin-right:10px !important;
+    }
+    .sitemap .feature-box-icon .icon-extra-large{
+        font-size: 30px;
+    }
+}

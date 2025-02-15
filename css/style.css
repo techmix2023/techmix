@@ -68,7 +68,7 @@ Table of contents
   --selago:#eaedff;
   --white-ice:#d8f5ef;
   --cornflower-blue:#445fed;
-  --jade:#00AF6B;
+  --jade:#00a1af;
   --orange: #ef991f;
   --majorelle-blue: #724ade;
   --light-majorelle-blue: #f2edfe;
@@ -7137,7 +7137,7 @@ header.sticky .navbar.disable-fixed {
 .navbar .navbar-nav .nav-link {
   font-size: 16px;
   line-height: 20px;
-  padding: 10px 30px;
+  padding: 20px 15px;
   position: relative;
   font-weight: 500;
   opacity: 1;
